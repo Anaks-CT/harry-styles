@@ -4,7 +4,7 @@ body{
 }
 .container{
     width: 100%;
-    height: 2000px;
+    height: 1773px;
     background: lightblue;
 }
 .header{
@@ -81,7 +81,7 @@ body{
     
 }
 .navv{
-    margin-bottom: 5px;
+    margin-bottom: 20px;
     margin-top: -13px;
 }
 .icon{
@@ -100,6 +100,7 @@ body{
     color: #cf4520;
     font-size: 15px;
     cursor: pointer;
+    margin-top: -18px;
 }
 .mid-2{
     width: 100%;
@@ -110,14 +111,112 @@ body{
 }
 .mid-2-section{
     width: 1200px;
-     
+    display: flex;
+    justify-content: space-between; 
 
 }
 .m2sleft{
+
     text-align: center;
-}
-.text{
-    font-size: 60px;
+    padding-left: 57px;
+    padding-top: 60px;
 }
 
+.text{
+    font-size: 51px;
+}
+.img{
+    width: 527px;
+    height: 310px;
     
+}
+.butt-2{
+    width: 246px;
+    height: 51px;
+    border: solid 1px #cf4520;
+    border-radius: 28px;
+    background: #f9f9f9;
+    color: #cf4520;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: -18px;
+    padding-right: 128px;
+}
+.m2sleft-2{
+    
+    text-align: center;
+    padding-right: 133px;
+    padding-top: 60px;
+}
+.mid-3{
+    width: 100%;
+    height: 302px;
+    background: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.foot-nav{
+    height: 29px;
+    width: 100%;
+    padding-top: 48px;
+    text-align: center;
+}
+.a{
+    padding-left: 38px;
+    font-size: 25px;
+    color: #cf4520;
+}
+.foot-input{
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 44px;
+    
+}
+.botom{
+    width: 241px;
+    height: 40px;
+    border-radius: 32px;
+    border-block-color: #cf4520;
+    border-block-end-color: #cf4520;
+    color: #cf4520;
+    
+}
+.privacy{
+    width: 345px;
+    float: left;
+    padding-left: 187px;
+    font-size: 11px;
+    margin-left: -24px;
+
+}
+.chekbox{
+    margin-top: 10px;
+    margin-bottom: auto;
+    float: left;
+}
+.pp{
+    color: #cf4520;
+}
+.small{
+    width: 100%;
+    height: 13px;
+    background: #ffc300;
+}
+.small-1{
+    width: 100%;
+    height: 13px;
+    background: #e04646;
+}
+.small-2{
+    background: #5268c2;
+    width: 100%;
+    height: 36px;
+    text-align: center;
+}
+.pp1{
+    color: white;
+    font-size: 9px;
+    padding-top: 10px;
+}
