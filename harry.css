@@ -124,6 +124,8 @@ body{
 
 .text{
     font-size: 51px;
+    color: #cf4520;
+    font-weight: 100;
 }
 .img{
     width: 527px;
